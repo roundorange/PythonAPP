@@ -1,0 +1,7 @@
+# 软件缓存
+.idea
+.vscode
+
+# 
+*.apk
+*.spec

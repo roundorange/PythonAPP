@@ -1,0 +1,3 @@
+module OSmileUI
+WButton 1.0 WButton.qml
+//LoginView 1.0 LoginView.qml
